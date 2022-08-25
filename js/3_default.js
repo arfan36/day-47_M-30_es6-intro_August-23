@@ -13,7 +13,7 @@ function add(first = 0, second = 0) {
     const total = first + second;
     return total;
 }
-const result = add();
+// const result = add();
 // console.log(result);
 
 function fullName(first, last = 'Chowdhury') {
@@ -21,4 +21,4 @@ function fullName(first, last = 'Chowdhury') {
     return name
 }
 const name = fullName('Gelam ');
-console.log(name);
+// console.log(name);

@@ -21,4 +21,4 @@ const summmary = 'sum of: ' + a + ' and ' + b + ' is: ' + (a + b);
 // console.log(summmary);
 
 const newSummary = `sum of ${a} and ${nums.length} is: ${a + b}`;
-console.log(newSummary);
+// console.log(newSummary);
