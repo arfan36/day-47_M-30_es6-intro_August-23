@@ -37,3 +37,5 @@ function getNames() {
 }
 const [baba, chacha] = getNames();
 console.log(baba, chacha);
+console.log("%c" + baba, 'color: green');
+// console.log("%c" + chacha, 'color: orange');
